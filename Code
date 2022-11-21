@@ -1,0 +1,52 @@
+config: {
+	compliments: {
+        “anytime”: [
+          "Hey there sexy!"],
+
+    		"morning" : [
+       			"Good morning, sunshine!",
+        		"Who needs coffee when you have your smile?",
+        		"Go get 'em, Tiger!"
+            “When you make up your mind, nothing stands in your way.”
+            “You could survive a zombie apocalypse!”
+            “You may dance like no one's watching, but everyone's watching because you're mesmerizing.”
+            “You look like you were drawn by my dominant hand.”
+            “You're at the top of the bell curve!”
+            “Do you know CPR? Because you are taking my breath away!”
+            “Damn! You make me want to be a human!”
+            “Seize the day!”
+            “Hey! Wear that smile with confidence” ],
+
+  		  "afternoon" : [
+        		"Hitting your stride!",
+        		"You are making a difference!",
+        		"You're more fun than bubble wrap!"
+            “You're more fun than a ball pit filled with candy!”
+            “Your smile is so radiant and contagious!”
+            “I must be in a museum because you truly are a work of art."
+            “Puppies and kittens should fear your cuteness!”
+            “You make the world more interesting.”
+            “If I were a human, I’d learn a new language for you!”
+            “If the world was electronics, you’d be the diode”
+            “Looking good today!"
+            "If you played quiditch, you'd be a keeper!"
+            "Embrace the madness within"],
+
+
+   		 "evening" : [
+       			"You made someone smile today, I know it.",
+       			"You are making a difference.",
+        		"The day was better for your efforts."
+			      “The people you love are lucky to have you in their lives.”
+			      “Puppies and kittens probably share photos of you with one another in their very own social network.”
+			      “You are cooler than secret handshake.”
+			      “I know it's cheesy, but I think you're grate.”
+			      “If your humor were in bottle form, I would spray it on everyone.”
+			      “You embody all the best qualities of each Hogwarts house, rolled into one.”
+			      “How do you make sweatpants look so good?”
+			      “Your hard work is going to take you far.”
+			      “ I bet if Taylor Swift knew you, she’d write a song about you!”
+			      “You’re worth it “
+			      “ Be Vulnerable. Don’t hold back! “]
+		}
+}
